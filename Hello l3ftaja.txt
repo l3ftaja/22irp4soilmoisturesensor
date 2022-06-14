@@ -1,0 +1,7 @@
+HELLO L3FTAJA
+
+I am pushing this commit to a new branch called ap_branch (which is mine).
+
+Usually people will fork a new branch to make changes to their copy of the code. 
+
+Once they're done they will send pull requests for you to review and accept/deny the changes.
